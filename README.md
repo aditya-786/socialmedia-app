@@ -22,4 +22,4 @@ UPCOMING FEATURES:<br/><br/>
 
 You can download the apk from the given provided link:<br/>
 
-https://drive.google.com/file/d/19IvKCZcD9euB2sFkJVUdoOLhYJ1DqUow/view?usp=sharing
+https://drive.google.com/file/d/1JcK0b_XcQ1v_xJLL6Drs0JHtwppkEePR/view?usp=sharing
