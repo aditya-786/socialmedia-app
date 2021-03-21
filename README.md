@@ -14,7 +14,7 @@ Created a fully functional social media app, where users can:
 <br/>
 <br/>
 > Built using Flutter, Dart and Firebase.<br/><br/><br/>
-> 
+
 ![See This](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 UPCOMING FEATURES:<br/><br/>
