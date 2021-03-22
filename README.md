@@ -15,7 +15,9 @@ Created a fully functional social media app, where users can:
 <br/>
 > Built using Flutter, Dart and Firebase.<br/><br/><br/>
 
-![See This](https://storage.cloudconvert.com/tasks/3974855b-5ee8-41ea-a048-10f4a3c63358/final_6057cbcee9647200be5f1ef6_692159.gif?AWSAccessKeyId=cloudconvert-production&Expires=1616453535&Signature=aYJluH2oGfenvvmhV18gYHEr%2BxY%3D&response-content-disposition=attachment%3B%20filename%3D%22final_6057cbcee9647200be5f1ef6_692159.gif%22&response-content-type=image%2Fgif.gif)
+![see this](https://user-images.githubusercontent.com/42476079/111961558-3551e400-8b17-11eb-9a7c-b9d917b5ba70.mp4)
+
+
 
 UPCOMING FEATURES:<br/><br/>
 
