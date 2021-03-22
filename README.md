@@ -27,4 +27,5 @@ UPCOMING FEATURES:<br/><br/>
 
 You can download the apk from the given provided link:<br/>
 
- https://docs.google.com/uc?export=download&id=1DpmMajoFC9vP3PdV1fPQV8mi--2Dd1i_
+#Download App From Here: 
+(https://www.bit.ly/adi7861_social_media_app)
