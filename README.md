@@ -19,6 +19,7 @@ Created a fully functional social media app, where users can:
 
 
 
+
 UPCOMING FEATURES:<br/><br/>
 
 • Users will be able to directly send messages to each other.<br/>
@@ -26,4 +27,4 @@ UPCOMING FEATURES:<br/><br/>
 
 You can download the apk from the given provided link:<br/>
 
-https://drive.google.com/file/d/1JcK0b_XcQ1v_xJLL6Drs0JHtwppkEePR/view?usp=sharing
+https://docs.google.com/uc?export=download&id=1DpmMajoFC9vP3PdV1fPQV8mi--2Dd1i_
