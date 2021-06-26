@@ -11,14 +11,14 @@ Created a fully functional social media app, where users can:
 • Likes also got deleted when someone unlikes your post, also got deleted from feeds for security.<br/>
 
 <br/>
-<br/>
-<br/>
 > Built using Flutter, Dart and Firebase.<br/><br/><br/>
 
-<video src="https://user-images.githubusercontent.com/42476079/111961558-3551e400-8b17-11eb-9a7c-b9d917b5ba70.mp4" height="300px"></video>
+Upcoming Features:
 
 • Users will be able to directly send messages to each other.<br/>
 • Live notifications through mobile notification panel.<br/><br/><br/>
+
+<video src="https://user-images.githubusercontent.com/42476079/111961558-3551e400-8b17-11eb-9a7c-b9d917b5ba70.mp4" height="300px"></video>
 
 You can download the apk from the given provided link:<br/>
 
