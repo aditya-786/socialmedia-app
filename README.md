@@ -15,12 +15,7 @@ Created a fully functional social media app, where users can:
 <br/>
 > Built using Flutter, Dart and Firebase.<br/><br/><br/>
 
-![see this](https://user-images.githubusercontent.com/42476079/111961558-3551e400-8b17-11eb-9a7c-b9d917b5ba70.mp4)
-
-
-
-
-UPCOMING FEATURES:<br/><br/>
+<video src="https://user-images.githubusercontent.com/42476079/111961558-3551e400-8b17-11eb-9a7c-b9d917b5ba70.mp4" height="300px"></video>
 
 • Users will be able to directly send messages to each other.<br/>
 • Live notifications through mobile notification panel.<br/><br/><br/>
